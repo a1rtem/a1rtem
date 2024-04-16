@@ -48,6 +48,6 @@
 <img align="right" src="https://profile-counter.glitch.me/a1rtem/count.svg" alt="Visitor Count">
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/a1rtem/a1rtem/assets/92279338/9516299f-20c5-472b-b033-4a69d77cb370" alt="BeeMovieGIF">
-</div>
+</div> -->

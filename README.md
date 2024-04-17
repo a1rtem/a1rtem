@@ -3,11 +3,9 @@
 </div>
 
 ## 🔨 Projects
-- **StudyBuddy**
-  - Description: A mockup Avalonia app developed for a school project in teams. It allows users to create/join groups, participate in events, and includes a search function.
+- **StudyBuddy:** A mockup Avalonia app developed for a school project in teams. It allows users to create/join groups, participate in events, and includes a search function.
   
-- **Inventory Management**
-  - Description: A web app built with Django and PostgreSQL for tracking stock levels, managing orders, and forecasting needs of a farm.
+- **Inventory Management:** A web app built with Django and PostgreSQL for tracking stock levels, managing orders, and forecasting needs of a farm.
   
 ## 🚀 Experience
 - **Web Development**  

@@ -1,5 +1,3 @@
-Experienced in developing CRUD applications, designing dynamic UIs, managing databases, containerizing applications with Docker, setting up CI/CD pipelines, and managing Kubernetes clusters.
-
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 &nbsp;![C#](https://img.shields.io/badge/C%23-239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
